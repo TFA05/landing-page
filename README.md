@@ -1,4 +1,4 @@
-# landing-page
+# odin-landing-page
 Website made following the odin project.
 
 This website was odin's way of testing my current knowledge on HTML and CSS and the biggest
