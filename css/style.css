@@ -54,7 +54,7 @@ a{
 .heroSecondary{
     font-size: 18px;
     color: #E5E7EB;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 .dance{
@@ -79,7 +79,7 @@ button{
     font-weight: 900;
     background-color: #281e73;
     color: white;
-    padding: 20px 0px;
+    padding: 20px 0px 30px;
     flex: 1;
 }
 
@@ -109,4 +109,25 @@ button{
     font-size: 18px;
     color: #E5E7EB;
     text-align: center;
+}
+
+.third{
+    background-color: darkslateblue;
+    color: white;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    padding: 100px 350px;
+}
+
+.quote{
+    font-size: 30px;
+}
+
+.credit{
+    align-self: flex-end;
+    font-weight: bold;
+    font-size: 20px;
 }
